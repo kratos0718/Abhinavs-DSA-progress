@@ -2,7 +2,7 @@ package oct_20;
 
 import java.util.*;
 
-public class leet_1998 {
+public class leet_1998   {
 
     public static boolean gcdSort(int[] nums) {
         int max = Arrays.stream(nums).max().getAsInt();
