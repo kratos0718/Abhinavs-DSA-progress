@@ -6,7 +6,7 @@ public class leet_202 {
         System.out.println(s.isHappy(19));
     }
 }
-
+//code
 class Solution202 {
     public boolean isHappy(int n) {
         int slow = n, fast = n;
