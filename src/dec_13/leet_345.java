@@ -5,7 +5,7 @@ public class leet_345 {
         System.out.println(reverseVowels("hello")); // holle
         System.out.println(reverseVowels("leetcode")); // leotcede
     }
-
+//edittt
     public static String reverseVowels(String s) {
         char[] arr = s.toCharArray();
         int i = 0, j = arr.length - 1;
