@@ -10,3 +10,4 @@ public class leet_292 {
         return n % 4 != 0;
     }
 }
+//true
