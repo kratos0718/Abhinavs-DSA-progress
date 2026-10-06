@@ -42,4 +42,4 @@ public class leet_92 {
             head = head.next;
         }
     }
-}
+}//hiii
