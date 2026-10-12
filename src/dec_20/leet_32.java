@@ -5,7 +5,7 @@ public class leet_32 {
         System.out.println(longestValidParentheses("(()"));     // 2
         System.out.println(longestValidParentheses(")()())"));  // 4
     }
-
+    
     public static int longestValidParentheses(String s) {
         java.util.Stack<Integer> stack = new java.util.Stack<>();
         stack.push(-1);
