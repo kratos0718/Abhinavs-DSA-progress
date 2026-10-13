@@ -9,7 +9,7 @@ public class leet_203 {
                                 new ListNode(3,
                                         new ListNode(4,
                                                 new ListNode(5,
-                                                        new ListNode(6)))))));
+                                                         new ListNode(6)))))));
 
         Solution203 sol = new Solution203();
         ListNode result = sol.removeElements(head, 6);
