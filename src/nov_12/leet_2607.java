@@ -9,7 +9,7 @@ public class leet_2607 {
         System.out.println(new Solution2607().makeSubKSumEqual(arr, k));
     }
 }
-
+  
 class Solution2607 {
     public long makeSubKSumEqual(int[] arr, int k) {
         int n = arr.length;
