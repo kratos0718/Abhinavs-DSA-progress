@@ -8,7 +8,7 @@ public class leet_95 {
         TreeNode left, right;
         TreeNode(int x) { val = x; }
     }
-
+ 
     public static void main(String[] args) {
         List<TreeNode> trees = generateTrees(3);
         System.out.println("Generated " + trees.size() + " unique BSTs");
