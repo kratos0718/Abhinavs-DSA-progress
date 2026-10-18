@@ -8,7 +8,7 @@ public class leet_199 {
         TreeNode left, right;
         TreeNode(int x) { val = x; }
     }
-
+ 
     public static void main(String[] args) {
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
