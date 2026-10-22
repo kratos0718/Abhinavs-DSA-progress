@@ -3,7 +3,7 @@ package dec_18;
 public class leet_693 {
     public static void main(String[] args) {
         System.out.println(hasAlternatingBits(5));  // true (101)
-        System.out.println(hasAlternatingBits(7));  // false (111)
+        System.out.println(hasAlternatingBits(7));  
     }
 
     public static boolean hasAlternatingBits(int n) {
