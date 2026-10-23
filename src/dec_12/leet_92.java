@@ -4,7 +4,7 @@ public class leet_92 {
     static class ListNode {
         int val;
         ListNode next;
-        ListNode(int x) { val = x; }
+        ListNode(int x) { val = x; } 
     }
     private static ListNode successor = null;
 
